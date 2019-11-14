@@ -1,12 +1,11 @@
-
-sts": [
+{
+posts": [
     {
-      "Name": John,
-      "State": "California"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "OrderStatus": {
-    "Status": "shipped"
-    "TrackingId: "4568709623973"
+  "profile": {
+    "name": "typicode"
   }
 }
